@@ -5,6 +5,8 @@
  */
 package hhssadventure;
 
+import java.util.Scanner;
+
 /**
  *
  * @author lamon
@@ -16,6 +18,10 @@ public class HHSSAdventure {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+
+    HHSSAdventure(Scanner input) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
